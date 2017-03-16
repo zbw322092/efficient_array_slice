@@ -1,0 +1,14 @@
+{
+  "name": "efficient_array_slice",
+  "version": "1.0.0",
+  "description": "an more efficient way to slice js array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slice"
+  ],
+  "author": "Bowen Zhong",
+  "license": "ISC"
+}
